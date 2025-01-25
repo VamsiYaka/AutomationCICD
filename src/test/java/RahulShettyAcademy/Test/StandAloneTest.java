@@ -21,7 +21,7 @@ public class StandAloneTest {
 		// TODO Auto-generated method stub
 
 		// WebDriverManager.chromedriver().setup();
-
+//comments
 		String ProductName = "IPHONE 13 PRO";
 
 		WebDriver driver = new ChromeDriver();
